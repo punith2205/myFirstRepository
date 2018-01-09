@@ -1,0 +1,13 @@
+source("C:/Official/Next_Gen_Analytics/Templates/Regression/Regression.R")
+
+source("C:/Official/Next_Gen_Analytics/Templates/Classification/Classification_Model_Selectionv2.4.R")
+
+source("C:/Official/Next_Gen_Analytics/Templates/Classification/Classification_Decision_Tree.R")
+
+source("C:/Official/Next_Gen_Analytics/Templates/Classification/Classification_Random_Forest.R")
+
+source("C:/Official/Next_Gen_Analytics/Templates/Classification/Classification_Naive_Bayes.R")
+
+source("C:/Official/Next_Gen_Analytics/Templates/Classification/Classification_SVM_Linear.R")
+
+source("C:/Official/Next_Gen_Analytics/Templates/Classification/Classification_SVM_Radial.R")
